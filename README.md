@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivang287/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
