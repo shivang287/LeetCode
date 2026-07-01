@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
