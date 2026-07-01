@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivang287/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -40,4 +41,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
