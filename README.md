@@ -36,12 +36,14 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
