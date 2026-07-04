@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivang287/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivang287/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/shivang287/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
 ## Two Pointers
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivang287/LeetCode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -80,6 +83,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivang287/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 ## Divide and Conquer
 |  |
 | ------- |
