@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shivang287/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -41,6 +42,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -76,6 +78,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shivang287/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivang287/LeetCode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -104,4 +108,8 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivang287/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
