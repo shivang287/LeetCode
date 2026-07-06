@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivang287/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shivang287/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivang287/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
