@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/shivang287/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
+| [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivang287/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
