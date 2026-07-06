@@ -62,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shivang287/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
