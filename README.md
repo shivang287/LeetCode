@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivang287/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shivang287/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shivang287/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivang287/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shivang287/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivang287/LeetCode/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivang287/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivang287/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivang287/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivang287/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
