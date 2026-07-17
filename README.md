@@ -33,6 +33,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivang287/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shivang287/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
@@ -100,6 +102,7 @@
 | [0066-plus-one](https://github.com/shivang287/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivang287/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivang287/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -175,6 +178,7 @@
 | [0001-two-sum](https://github.com/shivang287/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivang287/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/shivang287/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
