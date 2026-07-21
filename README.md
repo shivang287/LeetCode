@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/shivang287/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivang287/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/shivang287/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivang287/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivang287/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivang287/LeetCode/tree/master/0066-plus-one) |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivang287/LeetCode/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shivang287/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
