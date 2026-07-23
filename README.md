@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/shivang287/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shivang287/LeetCode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -171,6 +172,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shivang287/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivang287/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shivang287/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -239,6 +241,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivang287/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shivang287/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
