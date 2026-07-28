@@ -88,6 +88,7 @@
 | [0020-valid-parentheses](https://github.com/shivang287/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivang287/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shivang287/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shivang287/LeetCode/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivang287/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -272,6 +275,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -282,6 +286,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
