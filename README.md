@@ -56,6 +56,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shivang287/LeetCode/tree/master/0100-same-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -235,6 +236,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shivang287/LeetCode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivang287/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -252,4 +254,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shivang287/LeetCode/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shivang287/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shivang287/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
