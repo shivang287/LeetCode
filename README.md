@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivang287/LeetCode/tree/master/0100-same-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -257,6 +258,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivang287/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -314,4 +318,5 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivang287/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivang287/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
