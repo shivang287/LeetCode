@@ -34,6 +34,7 @@
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shivang287/LeetCode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -188,6 +189,7 @@
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shivang287/LeetCode/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shivang287/LeetCode/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivang287/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -327,4 +332,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivang287/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivang287/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivang287/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
