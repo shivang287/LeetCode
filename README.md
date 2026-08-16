@@ -46,6 +46,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivang287/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivang287/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2815-max-pair-sum-in-an-array](https://github.com/shivang287/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivang287/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -243,6 +244,7 @@
 | [0141-linked-list-cycle](https://github.com/shivang287/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivang287/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2815-max-pair-sum-in-an-array](https://github.com/shivang287/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
