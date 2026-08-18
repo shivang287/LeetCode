@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/shivang287/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shivang287/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shivang287/LeetCode/tree/master/0733-flood-fill) |
@@ -62,6 +63,7 @@
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivang287/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
