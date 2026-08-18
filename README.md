@@ -136,6 +136,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shivang287/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivang287/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/shivang287/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivang287/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivang287/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivang287/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shivang287/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shivang287/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
