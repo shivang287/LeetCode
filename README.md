@@ -126,6 +126,7 @@
 | [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shivang287/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/shivang287/LeetCode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/shivang287/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivang287/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shivang287/LeetCode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/shivang287/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shivang287/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Math
@@ -261,6 +263,7 @@
 | [0141-linked-list-cycle](https://github.com/shivang287/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivang287/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/shivang287/LeetCode/tree/master/0567-permutation-in-string) |
 | [2815-max-pair-sum-in-an-array](https://github.com/shivang287/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivang287/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/shivang287/LeetCode/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
