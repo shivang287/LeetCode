@@ -30,6 +30,7 @@
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shivang287/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/shivang287/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -157,6 +158,7 @@
 | [0050-powx-n](https://github.com/shivang287/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivang287/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivang287/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivang287/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -441,4 +443,24 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivang287/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
