@@ -1,18 +1,12 @@
 class Solution {
 public:
     int fib(int n) {
-        if(n==0){
-            return 0;
-        }else if(n == 1){
-            return 1;
-        }
-        int x1 = 0;
-        int x2 = 1;
-        for(int i=1; i<=n; i++){
-            int x3 = x1+x2;
-            x1 = x2;
-            x2 = x3;
-        }
-        return x1;
+         if(n==0){
+        return 0;
+    }
+    if(n==1){
+        return 1;
+    }
+    return fib(n-1)+fib(n-2);
     }
 };
