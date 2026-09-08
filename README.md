@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/shivang287/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivang287/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/shivang287/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shivang287/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shivang287/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivang287/LeetCode/tree/master/0053-maximum-subarray) |
@@ -111,6 +112,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivang287/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shivang287/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivang287/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shivang287/LeetCode/tree/master/0200-number-of-islands) |
@@ -274,6 +276,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivang287/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivang287/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/shivang287/LeetCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shivang287/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivang287/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -303,6 +306,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivang287/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shivang287/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivang287/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivang287/LeetCode/tree/master/0090-subsets-ii) |
@@ -485,4 +489,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivang287/LeetCode/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivang287/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivang287/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
