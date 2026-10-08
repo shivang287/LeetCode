@@ -54,6 +54,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1480-running-sum-of-1d-array](https://github.com/shivang287/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivang287/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -293,6 +294,7 @@
 | [0238-product-of-array-except-self](https://github.com/shivang287/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang287/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivang287/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/shivang287/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
