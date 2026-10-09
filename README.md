@@ -53,6 +53,7 @@
 | [0733-flood-fill](https://github.com/shivang287/LeetCode/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivang287/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shivang287/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/shivang287/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
@@ -292,6 +293,7 @@
 | [0525-contiguous-array](https://github.com/shivang287/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang287/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivang287/LeetCode/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shivang287/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/shivang287/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -302,6 +304,7 @@
 | [0525-contiguous-array](https://github.com/shivang287/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang287/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivang287/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shivang287/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shivang287/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
