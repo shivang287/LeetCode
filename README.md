@@ -152,6 +152,7 @@
 | [0031-next-permutation](https://github.com/shivang287/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shivang287/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivang287/LeetCode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/shivang287/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivang287/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivang287/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivang287/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/shivang287/LeetCode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivang287/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivang287/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivang287/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
