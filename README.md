@@ -82,6 +82,7 @@
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/shivang287/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivang287/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivang287/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -181,6 +182,7 @@
 | [0069-sqrtx](https://github.com/shivang287/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shivang287/LeetCode/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/shivang287/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivang287/LeetCode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivang287/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
