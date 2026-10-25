@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/shivang287/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/shivang287/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/shivang287/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shivang287/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivang287/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -220,6 +221,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivang287/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivang287/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/shivang287/LeetCode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
