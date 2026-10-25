@@ -36,6 +36,7 @@
 | [0136-single-number](https://github.com/shivang287/LeetCode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivang287/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shivang287/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shivang287/LeetCode/tree/master/0200-number-of-islands) |
@@ -211,6 +212,7 @@
 | [0056-merge-intervals](https://github.com/shivang287/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shivang287/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivang287/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -240,6 +242,7 @@
 | [0053-maximum-subarray](https://github.com/shivang287/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivang287/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Graph Theory
@@ -259,6 +262,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivang287/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
@@ -307,6 +311,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shivang287/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivang287/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivang287/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/shivang287/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang287/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -543,4 +548,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivang287/LeetCode/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
