@@ -149,6 +149,7 @@
 | [0125-valid-palindrome](https://github.com/shivang287/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivang287/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/shivang287/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivang287/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/shivang287/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shivang287/LeetCode/tree/master/0443-string-compression) |
@@ -215,6 +216,7 @@
 | [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shivang287/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivang287/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shivang287/LeetCode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -312,6 +314,7 @@
 | [0141-linked-list-cycle](https://github.com/shivang287/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivang287/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shivang287/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/shivang287/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/shivang287/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang287/LeetCode/tree/master/0560-subarray-sum-equals-k) |
