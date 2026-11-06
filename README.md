@@ -65,6 +65,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivang287/LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/shivang287/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -226,6 +227,7 @@
 | [0414-third-maximum-number](https://github.com/shivang287/LeetCode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivang287/LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -329,6 +331,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shivang287/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivang287/LeetCode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivang287/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/shivang287/LeetCode/tree/master/1122-relative-sort-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/shivang287/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivang287/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -561,6 +564,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivang287/LeetCode/tree/master/0056-merge-intervals) |
+| [1122-relative-sort-array](https://github.com/shivang287/LeetCode/tree/master/1122-relative-sort-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -569,8 +573,10 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivang287/LeetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivang287/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
