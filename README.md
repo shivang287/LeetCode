@@ -64,6 +64,7 @@
 | [0994-rotting-oranges](https://github.com/shivang287/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shivang287/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/shivang287/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -224,6 +225,7 @@
 | [0389-find-the-difference](https://github.com/shivang287/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shivang287/LeetCode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shivang287/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/shivang287/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivang287/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivang287/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -563,4 +565,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivang287/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shivang287/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
