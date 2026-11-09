@@ -87,6 +87,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivang287/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivang287/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivang287/LeetCode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/shivang287/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivang287/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/shivang287/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -206,6 +207,7 @@
 | [0078-subsets](https://github.com/shivang287/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivang287/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shivang287/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/shivang287/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shivang287/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/shivang287/LeetCode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivang287/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -442,6 +444,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shivang287/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/shivang287/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivang287/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivang287/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -464,6 +467,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivang287/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shivang287/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/shivang287/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivang287/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivang287/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivang287/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
